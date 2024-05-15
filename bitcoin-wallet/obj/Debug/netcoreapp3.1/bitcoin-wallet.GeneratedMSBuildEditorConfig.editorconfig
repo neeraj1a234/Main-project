@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Bitcoin_Wallet
+build_property.ProjectDir = C:\CryptocurrencyWallet(Modified1)\WalletGUI-Final\bitcoin-wallet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
